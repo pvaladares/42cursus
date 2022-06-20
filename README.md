@@ -24,3 +24,7 @@ Visual Studio
 * [42 Norminette Highlighter (3.x)](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3) - Norminette decorator
 Stats
 * [Badge42](https://badge42.vercel.app/) - Dynamically generated 42 badge for your git readmes
+
+## Resources
+
+* [Stanford CS Education Library](http://cslibrary.stanford.edu) - great consise explanation about important topics such as [Pointers](http://cslibrary.stanford.edu/106/), [Memory](http://cslibrary.stanford.edu/102/), [Linked Lists](http://cslibrary.stanford.edu/103/), [C language](http://cslibrary.stanford.edu/101/), [Unix compilators](http://cslibrary.stanford.edu/107/)
