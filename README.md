@@ -13,8 +13,8 @@ Projects developed for 42cursus at 42 Lisboa
 | ------ | ------ | ------ |
 | [Libft](https://github.com/pvaladares/42cursus-00-Libft) | 0 | ![pvaladar's 42 Libft Score](https://badge42.vercel.app/api/v2/cl34ggaad004009jmq2lkluen/project/2497527) |
 | [Born2beRoot](https://github.com/pvaladares/42cursus-01-Born2BeRoot) | 1 | ![pvaladar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl34ggaad004009jmq2lkluen/project/2528405) |
-| [get_next_line](https://github.com/pvaladares/42cursus-01-get_next_line) | 1 | ![pvaladar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl34ggaad004009jmq2lkluen/project/2528592) |
 | [ft_printf](https://github.com/pvaladares/42cursus-01-ft_printf) | 1 | ![pvaladar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl34ggaad004009jmq2lkluen/project/2528591) |
+| [get_next_line](https://github.com/pvaladares/42cursus-01-get_next_line) | 1 | ![pvaladar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl34ggaad004009jmq2lkluen/project/2528592) |
 
 
 ## Tools
