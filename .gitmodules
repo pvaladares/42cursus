@@ -1,3 +1,6 @@
 [submodule "42cursus-00-Libft"]
 	path = 42cursus-00-Libft
 	url = git@github.com:pvaladares/42cursus-00-Libft.git
+[submodule "42cursus-01-Born2BeRoot"]
+	path = 42cursus-01-Born2BeRoot
+	url = git@github.com:pvaladares/42cursus-01-Born2BeRoot.git
