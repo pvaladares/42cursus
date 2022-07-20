@@ -4,3 +4,6 @@
 [submodule "42cursus-01-Born2BeRoot"]
 	path = 42cursus-01-Born2BeRoot
 	url = git@github.com:pvaladares/42cursus-01-Born2BeRoot.git
+[submodule "42cursus-02-minitalk"]
+	path = 42cursus-02-minitalk
+	url = git@github.com:pvaladares/42cursus-02-minitalk.git
